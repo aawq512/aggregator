@@ -1,4 +1,3 @@
-https://board.eyelink.ai/s/a3ddc3c4dfeb2e2f1bfffdc87591df9b
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=14175391326d29d95aefa6bf796c2007
-https://www.yywhale.com/api/v1/client/subscribe?token=97e43a37ac80516dbcdc134d64b81e70
-https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=c2335805d7066a08f59fdf1df04b25ef
+https://www.yywhale.com/api/v1/client/subscribe?token=8f22c69e777d7521f4b6c3809b99c45c
+https://board.eyelink.ai/s/9546d51111f2e320bade9173a72a6491
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=c54bf266099d54744590ed9beeed4bda
