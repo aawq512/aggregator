@@ -1,3 +1,2 @@
-https://www.yywhale.com/api/v1/client/subscribe?token=8f22c69e777d7521f4b6c3809b99c45c
-https://board.eyelink.ai/s/9546d51111f2e320bade9173a72a6491
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=c54bf266099d54744590ed9beeed4bda
+https://www.yywhale.com/api/v1/client/subscribe?token=f5e2e3797ceacd4a468245c75fc56e34
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=d32157ba7e1156960ba6e3731a249c5f
