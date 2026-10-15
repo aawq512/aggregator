@@ -1,7 +1,7 @@
 proxies:
-  - {name: 8443, server: hwtqcp.uhomdex.shop, port: 8443, type: vmess, uuid: 248b2970-6144-4aed-8d7f-267dc2817d14, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: hwtqcp.uhomdex.shop}}, udp: true}
-  - {name: 🇨🇳 中国联通节点1, server: 115.231.220.33, port: 5443, type: trojan, password: d0ee65c9-d2a3-465e-a961-ab9bb7e4bc89, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇼 台湾高速节点, server: 103.137.63.77, port: 443, type: trojan, password: d0ee65c9-d2a3-465e-a961-ab9bb7e4bc89, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇼 台湾高速节点3, server: 118.232.199.14, port: 443, type: trojan, password: d0ee65c9-d2a3-465e-a961-ab9bb7e4bc89, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇼 台湾高速节点2, server: 118.232.199.29, port: 443, type: trojan, password: d0ee65c9-d2a3-465e-a961-ab9bb7e4bc89, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国高速节点1, server: 144.34.178.66, port: 1443, type: trojan, password: d0ee65c9-d2a3-465e-a961-ab9bb7e4bc89, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇼 台湾高速节点2, server: 118.232.199.29, port: 443, type: trojan, password: 02896e44-066d-406d-83d9-2cdd2c97b754, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇼 台湾高速节点, server: 103.137.63.77, port: 443, type: trojan, password: 02896e44-066d-406d-83d9-2cdd2c97b754, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+  - {name: 8443, server: hwtqcp.uhomdex.shop, port: 8443, type: vmess, uuid: 00e258d5-a792-4686-a0e3-9d772c51f239, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: hwtqcp.uhomdex.shop}}, udp: true}
+  - {name: 🇹🇼 台湾高速节点3, server: 118.232.199.14, port: 443, type: trojan, password: 02896e44-066d-406d-83d9-2cdd2c97b754, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 中国联通节点1, server: 115.231.220.33, port: 5443, type: trojan, password: 02896e44-066d-406d-83d9-2cdd2c97b754, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国高速节点1, server: 144.34.178.66, port: 1443, type: trojan, password: 02896e44-066d-406d-83d9-2cdd2c97b754, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
