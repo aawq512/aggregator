@@ -1,2 +1,2 @@
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=969a3cf9d9d9f871e95e28b6a603ef94
-https://www.yywhale.com/api/v1/client/subscribe?token=50a2cefd0202ef5ad803763d81c535aa
+https://www.yywhale.com/api/v1/client/subscribe?token=60dd1e63fb79e17f056629823ac57cd7
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=37ac28d82f29a9ee8e612eaddab63a97
