@@ -1,1 +1,1 @@
-https://www.yywhale.com/api/v1/client/subscribe?token=4bde8a1d53106dfa1f386d08ad9867bf
+https://www.yywhale.com/api/v1/client/subscribe?token=1b60737d70b6b05a433b1708eff5edcc
